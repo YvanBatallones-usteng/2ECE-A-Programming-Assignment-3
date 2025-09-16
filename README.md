@@ -80,4 +80,3 @@ df[df['Model'] == 'Mazda RX4']
 * **Course:** 2ECE-A
 * **Activity:** Programming Assignment 3- Pandas
 
-```
